@@ -1,0 +1,16 @@
+{
+    "table": "Processing Table",
+    "entering": "Entering Lab...",
+    "leaving": "Leaving Lab...",
+    "CokeBoxProg": "Processing Paste...",
+    "CokePacking": "Packing Coke Bag...",
+    "CokeProcessing": "Processing Leaves...",
+    "buying": "Buying...",
+    "error": "Error",
+    "RequiredItems": "You do not have the required items!",
+    "RequiredTrowel": "You need a trowel!",
+    "pickup": "Pick Up",
+    "pickingup": "Picking Up...",
+    "EnterLab": "Enter Lab",
+    "LeaveLab": "Leave Lab"
+}
