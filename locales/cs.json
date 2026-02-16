@@ -1,0 +1,16 @@
+{
+    "table": "Zpracovací stůl",
+    "entering": "Vstupuješ do laboratoře...",
+    "leaving": "Opouštíš laboratoř...",
+    "CokeBoxProg": "Zpracováváš pastu...",
+    "CokePacking": "Balíš kokain do sáčku...",
+    "CokeProcessing": "Zpracováváš listy...",
+    "buying": "Nakupuješ...",
+    "error": "Chyba",
+    "RequiredItems": "Nemáš potřebné itemy!",
+    "RequiredTrowel": "Potřebuješ lopatku!",
+    "pickup": "Sebrat",
+    "pickingup": "Sbíráš...",
+    "EnterLab": "Vstoupit do laboratoře",
+    "LeaveLab": "Opustit laboratoř"
+}
