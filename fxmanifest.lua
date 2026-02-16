@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-author 'Flux'
+author 'Fuse'
 github 'https://github.com/fusefivem'
 description 'FD Cocaine | Fuse Development'
 
