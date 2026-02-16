@@ -31,8 +31,8 @@
 	['coke_access'] = {
 		label = 'Laboratory Access Card',
 		weight = 15,
-		stack = true,
-		description = 'An encrypted keycard used to access drug labs.'
+		stack = false,
+		description = 'An encrypted keycard disguised as a Fleeca Bank card.'
 	},
 
 	['coke'] = {
