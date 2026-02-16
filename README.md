@@ -1,7 +1,6 @@
 # FD Cocaine
-<img width="2700" height="1500" alt="fd_cocaine" src="https://github.com/user-attachments/assets/10aacd96-9b2e-423b-bdbe-59c6d73c56ec" />
-
 A high performance cocaine harvesting and production system for ESX, built for ox_lib and ox_inventory.
+<img width="2700" height="1500" alt="fd_cocaine" src="https://github.com/user-attachments/assets/10aacd96-9b2e-423b-bdbe-59c6d73c56ec" />
 
 ## Features
 - **Harvesting:** Players can gather coca leaves at locations easily defined via the configuration file.
